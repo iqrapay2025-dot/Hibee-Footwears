@@ -1,0 +1,13 @@
+{
+  "description": "Experience a sleek, responsive interface showcasing Hibee Footwear's collection with smooth animations and an engaging auto-carousel for effortless navigation.",
+  "robots": {
+    "index": false
+  },
+  "icons": {
+    "icon": "/src/favicon-32x32.png"
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
